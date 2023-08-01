@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+#get-posts-btn{
+    padding: 11px;
+    width: 103px;
+    border-radius: 8px;
+    margin-top: 19px;
+}
